@@ -125,6 +125,7 @@ Note that in order for a language to be highlighted properly, you must have the 
 * `jade`
 * `java`
 * `javascript|js`
+* `typescript|ts`
 * `json`
 * `json front matter`
 * `julia`
